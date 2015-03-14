@@ -1,0 +1,20 @@
+{
+  "name": "flamingotest",
+  "version": "0.0.0",
+  "description": "Test node web server for the Flamingo hackathon",
+  "main": "main.js",
+  "dependencies": {
+    "express": "~4.12.2",
+    "multer": "~0.1.8",
+    "body-parser": "~1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Devin Boyer",
+  "license": "BSD-2-Clause"
+}
